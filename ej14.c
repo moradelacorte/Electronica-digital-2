@@ -10,7 +10,7 @@ int main(void) {
 
     var.a = 77;
     printf("a: %d\n", var.a);
-    printf("b: %d\n", var.b);
+    printf("b: %c\n", var.b);
 
     return 0;
 }
